@@ -265,7 +265,7 @@ La majorité des logiciel dépendent d'un OS pour fonctionner. Lorsque les gens 
 				<Name>Dialogue écrit</Name>
 			</Feature>
 			<Feature Name="3D models">
-				<Name>Modèles 3D</Name>
+				<Name>Modélisations 3D</Name>
 			</Feature>
 		</Features>
 	</Software>
